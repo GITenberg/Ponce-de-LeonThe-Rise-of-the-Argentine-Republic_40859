@@ -1,0 +1,25 @@
+_repo: Ponce-de-LeonThe-Rise-of-the-Argentine-Republic_40859
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40859-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pilling, William
+    birthdate: 1834
+    gutenberg_agent_id: '40859'
+    url: http://www.gutenberg.org/2009/agents/40859
+description: ''
+gutenberg_issued: '2012-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Fiction'
+- !lcc 'PR'
+title: 'Ponce de Leon: The Rise of the Argentine Republic'
+url: http://www.gutenberg.org/ebooks/40859
